@@ -31,7 +31,7 @@
     <h2 id="contributing">Contributing</h2>
     <p>Contributions are welcome! Feel free to open issues or submit pull requests.</p>
     <h2 id="license">License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE.md">LICENSE.md</a> file for details.</p>
+    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE.md</a> file for details.</p>
 </body>
 
 </html>
